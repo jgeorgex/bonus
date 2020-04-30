@@ -15,6 +15,4 @@ Input => output
 1,false => $1 <br>
 1,true => $10 <br>
 2, false => $2 <br>
-2, ture => $20 <br>
-100, false => $100 <br>
-100, true => $1000
+2, ture => $20

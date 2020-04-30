@@ -1,3 +1,3 @@
 def bonus(salary, bonus)
-    salary
+    "$#{salary}"
 end

@@ -1,3 +1,3 @@
 def bonus(salary, bonus)
-    1
+    salary
 end

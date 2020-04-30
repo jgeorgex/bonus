@@ -1,3 +1,7 @@
 def bonus(salary, bonus)
-    "$#{salary}"
+    if bonus == true
+        "$#{salary*10}"
+    else
+        "$#{salary}"
+    end
 end
